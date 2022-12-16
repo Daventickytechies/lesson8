@@ -1,0 +1,8 @@
+h1{
+    color:aqua ; font-size: 100px; letter-spacing: 150px;
+}
+p{
+    color:cadetblue ; font-weight: bold;
+    word-spacing: 20px;
+    text-indent: 15px;
+}
